@@ -17,3 +17,14 @@ use Illuminate\Support\Facades\Route;
 //Route::get('/', function () {
 //    return view('welcome');
 //});
+
+Route::get('/home', function () {
+    return view('welcome');
+});
+
+Route::get('/home/set', array('as' => 'homegame', function () {
+    $url = route('homegame');
+    return $url;
+}));
+
+Route::resource('posts','PostData');
