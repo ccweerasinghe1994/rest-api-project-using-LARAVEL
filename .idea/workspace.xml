@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56a3964a-639b-4812-9f97-9207e3744dc9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/img/shoe_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/img/shoe_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/img/shoe_3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Seller.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Seller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_17_041642_create_categories_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_11_17_041642_create_categories_table.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_17_041934_create_transactions_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_11_17_041934_create_transactions_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_17_042004_create_tranactions_table.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_17_125628_create_products_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_11_17_125628_create_products_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_17_125628_create_products_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_11_17_041742_create_products_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +150,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -156,6 +160,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\code\LARAVEL\RESTFUL API\laravel\resources\img" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
