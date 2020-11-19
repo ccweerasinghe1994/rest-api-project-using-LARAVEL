@@ -149,7 +149,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -176,7 +176,7 @@
       <workItem from="1605667372549" duration="2982000" />
       <workItem from="1605760188015" duration="65000" />
       <workItem from="1605760274421" duration="475000" />
-      <workItem from="1605760811442" duration="4387000" />
+      <workItem from="1605760811442" duration="8905000" />
     </task>
     <servers />
   </component>
