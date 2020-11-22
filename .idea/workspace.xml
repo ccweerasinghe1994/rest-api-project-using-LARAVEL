@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="56a3964a-639b-4812-9f97-9207e3744dc9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/User/UserController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/User/UserController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Buyer.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Buyer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Buyer/BuyerController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Buyer/BuyerController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +25,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -176,7 +181,8 @@
       <workItem from="1605667372549" duration="2982000" />
       <workItem from="1605760188015" duration="65000" />
       <workItem from="1605760274421" duration="475000" />
-      <workItem from="1605760811442" duration="8905000" />
+      <workItem from="1605760811442" duration="9492000" />
+      <workItem from="1606008680740" duration="3508000" />
     </task>
     <servers />
   </component>
